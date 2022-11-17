@@ -7,6 +7,7 @@ My most advanced project as of now date: 16.11.2022
 
 -> CodeRunnerApp has code that utilizes user input effectively usin WHILE-loop
 
+-> Calculation_Task has the use of STATIC and Math.PI
 
 Learning Object-Oriented programming, using IntelliJ as text editor.
 
