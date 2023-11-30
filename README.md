@@ -1,19 +1,39 @@
-# Java
-Printing here my code of Java assignments issued by Hamk school
+# Java Assignments Repository
 
-My most advanced projecta as of now date: 17.11.2022
+Welcome to my Java Assignments repository! Here, I share my code for Java assignments issued by Hamk school. As of November 17, 2022, I'm showcasing some of my most advanced projects.
 
--> ToyAssignment, which has code use of inheritance, encapsulation, methods
+## Featured Projects
 
--> CodeRunnerApp has code that utilizes user input effectively using WHILE-loop
+### ToyAssignment
+- Demonstrates the use of inheritance, encapsulation, and methods.
 
--> Calculation_Task has the use of STATIC and Math.PI
+### CodeRunnerApp
+- Utilizes user input effectively using a WHILE-loop.
 
--> PacmanTask has use of calling methods from another class.
+### Calculation_Task
+- Utilizes STATIC and `Math.PI` to perform calculations.
 
-Learning Object-Oriented programming, using IntelliJ as text editor.
+### PacmanTask
+- Involves calling methods from another class.
 
-Note: In the assignments it is asked to create class on same Main.java file, not as separate.
-This is the reason for only Main.java file. 
+## Learning Journey
 
+I'm actively learning Object-Oriented programming and using IntelliJ as my text editor. It's worth noting that in these assignments, I've created classes in the same `Main.java` file, not as separate entities.
 
+## Repository Structure
+
+- [Calculation_Task](./Calculation_Task): Added Calculation_task last year.
+- [CarAssignment](./CarAssignment): Adding Java projects last year.
+- [CodeRunner2](./CodeRunner2): Update 10 months ago.
+- [CodeRunnerApp](./CodeRunnerApp): Adding Java projects last year.
+- [Encapsulation](./Encapsulation): Update 10 months ago.
+- [OOP_0](./OOP_0): Adding Java projects last year.
+- [PacmanTask](./PacmanTask): Add files via upload last year.
+- [ToyAssignment](./ToyAssignment): Adding Java projects last year.
+- [assignment_C_and_O](./assignment_C_and_O): Adding project last year.
+
+## Get Started
+
+Feel free to explore the projects by navigating into each repository. To run any of the projects, follow the instructions provided within the respective README or Java files.
+
+Happy coding! 🚀👨‍💻
